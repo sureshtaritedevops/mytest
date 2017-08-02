@@ -10,6 +10,6 @@ public class test1 {
 		// TODO Auto-generated method stub
 		//change xy
 	}
-//change E
-//change D
+//change Exx
+//change Dxx
 }
